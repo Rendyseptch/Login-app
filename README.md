@@ -116,7 +116,7 @@ Halaman Register
 <img src="/frontend/public/Register-Mobile.png" width="400" alt="Register"/>
 </p>
 
-Dashboard 
+
 Dashboard
 <p align="center">
 <img src="/frontend/public/Dashboard.png" width="400" alt="Dashboard "/>
@@ -124,18 +124,6 @@ Dashboard
 <img src="/frontend/public/Dashboard-black.png" width="400" alt="Dashboard "/>
 </p>
 
-Fungsionalitas Arsip
-<p align="center">
-<img src="dokumentasi/add surat.png" width="300" alt="Create Surat"/>
-<img src="dokumentasi/view_surat.png" width="300" alt="Lihat Surat"/>
-</p>
-
-Manajemen Kategori
-<p align="center">
-<img src="dokumentasi/Table kategori.png" width="400" alt="Index Kategori"/>
-<img src="dokumentasi/create_Category.png" width="400" alt="Create Kategori"/>
-<img src="dokumentasi/edit_kategori.png" width="400" alt="Lihat Kategori"/>
-</p>
 
 
 
