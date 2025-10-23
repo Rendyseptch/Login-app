@@ -2,8 +2,8 @@
 
 ##  Deskripsi Tugas
 
-Tugas ini bertujuan untuk membuat aplikasi web sederhana dengan fitur **login dan autentikasi menggunakan Node.js dan React.js**. 
-> **Deskripsi:** Membuat halaman login dengan sistem autentikasi sederhana, validasi form, dan proteksi halaman menggunakan JWT.
+Project ini bertujuan untuk membuat aplikasi web sederhana dengan fitur **login dan autentikasi menggunakan Node.js dan React.js**. 
+> Membuat halaman login dengan sistem autentikasi sederhana, validasi form, dan proteksi halaman menggunakan JWT.
 
 ---
 
@@ -29,7 +29,7 @@ Tugas ini bertujuan untuk membuat aplikasi web sederhana dengan fitur **login da
  **UI & UX:**
 - Tombol **Show/Hide Password**
 - Animasi loading saat login
-- **Dark Mode Toggle **
+- Dark Mode Toggle
 - Responsif (mobile & desktop)
 - Desain menggunakan **TailwindCSS**
 
@@ -62,7 +62,7 @@ Aplikasi ini terdiri dari dua bagian utama:
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 | Layer | Teknologi | Deskripsi |
 |-------|------------|-----------|
@@ -74,9 +74,9 @@ Aplikasi ini terdiri dari dua bagian utama:
 
 ---
 
-## ⚙️ Cara Menjalankan Project di Lokal
+## Cara Menjalankan Project di Lokal
 
-### 1️⃣ Clone Repository
+### 1️ Clone Repository
 1. Clone project ke lokal:
  -bash
 git clone https://github.com/Rendyseptch/Login-app.git
@@ -99,4 +99,44 @@ npm install
 
 8. Jalankan frontend:
    npm start
+
+
+Screenshot Aplikasi
+Halaman Login
+<p align="center">
+<img src="/frontend/public/Login1.png" width="300" alt="Login"/>
+<img src="/frontend/public/Login-light.png" width="300" alt="Login"/>
+<img src="/frontend/public/Login-Mobile1.png" width="300" alt="Login"/>
+</p>
+
+Halaman Register
+<p align="center">
+<img src="/frontend/public/Register-light.png" width="400" alt="Register"/>
+<img src="/frontend/public/register1.png" width="400" alt="Register"/>
+<img src="/frontend/public/Register-Mobile.png" width="400" alt="Register"/>
+</p>
+
+Dashboard 
+Dashboard
+<p align="center">
+<img src="/frontend/public/Dashboard.png" width="400" alt="Dashboard "/>
+<img src="/frontend/public/Dashboard-mobile.png" width="400" alt="Dashboard "/>
+<img src="/frontend/public/Dashboard-black.png" width="400" alt="Dashboard "/>
+</p>
+
+Fungsionalitas Arsip
+<p align="center">
+<img src="dokumentasi/add surat.png" width="300" alt="Create Surat"/>
+<img src="dokumentasi/view_surat.png" width="300" alt="Lihat Surat"/>
+</p>
+
+Manajemen Kategori
+<p align="center">
+<img src="dokumentasi/Table kategori.png" width="400" alt="Index Kategori"/>
+<img src="dokumentasi/create_Category.png" width="400" alt="Create Kategori"/>
+<img src="dokumentasi/edit_kategori.png" width="400" alt="Lihat Kategori"/>
+</p>
+
+
+
 
